@@ -49,6 +49,3 @@ Messages are broadcast to all queues bound to the exchange, regardless of the ro
 
 Messages are routed based on the message headers instead of the routing key. Headers can be used to add more complex routing logic.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
