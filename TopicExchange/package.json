@@ -1,0 +1,17 @@
+{
+  "name": "topicexchange",
+  "version": "1.0.0",
+  "main": "pub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mansi0108",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.1.4"
+  }
+}
